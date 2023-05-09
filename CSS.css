@@ -1,0 +1,72 @@
+#color{
+    color: blue;
+}
+
+.CFondo{
+    background-color: aquamarine;
+}
+
+#titulo{
+    color: brown;
+}
+
+
+body {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aarp.org%2Fespanol%2Fhogar-familia%2Fcasa-jardin%2Finfo-2022%2Fconsejos-para-apicultores.html&psig=AOvVaw0F39YBNJaSQDiS2dK6bGWm&ust=1683727421356000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCausmz6P4CFQAAAAAdAAAAABAE);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
+
+#Border{ 
+    width: 125px;
+    height: auto;
+    background: #e9be50;
+    opacity: .8;
+    border: 10px solid rgba(2, 1, 0, .3)
+    
+    
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+
+nav {
+    background-color: #df9d2c;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 100px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+header {
+    background-color: #e9be50;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    background-color: #e9be50;
+    color: #fff;
+    padding: 100px;
+    text-align: center;
+    margin-top: 10px;
+}
+
